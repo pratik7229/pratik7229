@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Walunj</h1>
-<h3">I am Pratik, an innovative professional driven by a passion for tackling engineering challenges. My expertise lies in Computer Science, particularly in deep learning and robotics. I excel in solving problems through innovative and cost-effective approaches. While rooted in my core competencies, I am highly adaptable and open to engaging in diverse fields within the realm of engineering.</h3>
+I am an innovative professional driven by a passion for tackling engineering challenges. My expertise lies in Computer Science, particularly in deep learning and robotics. I excel in solving problems through innovative and cost-effective approaches. While rooted in my core competencies, I am highly adaptable and open to engaging in diverse fields within the realm of engineering.
 
 - 🔭 I’m currently working on **Multi Terrian Unmanned Ariel Vehicle**
 
@@ -8,6 +8,25 @@
 - 👯 I’m looking to collaborate on **Robotics and Deeplearning Projects**
 
 - 📫 How to reach me **pratikwalunj7229@gmail.com**
+
+# Skills
+## Programming Languages
+- C/C++
+- python
+- shell Scripting
+## Tool and Technologies
+- tensorflow
+- pandas
+- matplotlib
+- scikit_learn
+- Robot Operating System
+- arduino
+
+# Examples of work
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
