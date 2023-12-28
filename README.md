@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Walunj</h1>
-<h3 align="center">I am Pratik, an innovative professional driven by a passion for tackling engineering challenges. My expertise lies in Computer Science, particularly in deep learning and robotics. I excel in solving problems through innovative and cost-effective approaches. While rooted in my core competencies, I am highly adaptable and open to engaging in diverse fields within the realm of engineering.</h3>
+<h3">I am Pratik, an innovative professional driven by a passion for tackling engineering challenges. My expertise lies in Computer Science, particularly in deep learning and robotics. I excel in solving problems through innovative and cost-effective approaches. While rooted in my core competencies, I am highly adaptable and open to engaging in diverse fields within the realm of engineering.</h3>
 
 - 🔭 I’m currently working on **Multi Terrian Unmanned Ariel Vehicle**
 
