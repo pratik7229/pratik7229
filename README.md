@@ -21,14 +21,16 @@ Currently exploring **vision optimization on embedded hardware** (Jetson platfor
 
 # 🚀 Current Work
 
+### 🚗 Open ADAS
+Research platform for **autonomous vehicle perception and navigation**
+
 ### 🧗 Climbing Robot for Structural Inspection
 Autonomous climbing robot performing **ultrasonic inspection with SLAM-based localization**
 
 ### 📦 Real-Time Object Detection and Tracking (C++)
 Vision system for **industrial conveyor sorting applications**
 
-### 🚗 Open ADAS
-Research platform for **autonomous vehicle perception and navigation**
+
 
 ---
 
@@ -66,7 +68,6 @@ Research platform for **autonomous vehicle perception and navigation**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
-<img src="https://developer.nvidia.com/sites/default/files/akamai/cuda/images/nvidia-tensorrt.png" height="40"/>
 
 </td>
 
