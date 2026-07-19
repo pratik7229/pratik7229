@@ -1,132 +1,74 @@
 <h1 align="center">Pratik Walunj</h1>
-<h3 align="center">🤖 Robotics Engineer | 👁️ Robot Perception | ⚡ Edge AI | 📷 Computer Vision</h3>
+<h3 align="center">🤖 Robotics Engineer | 👁️ Robot Perception | ⚡ Edge AI & C++ | 📷 Computer Vision</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/pratik-walunj-060233193/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pratikwalunj7229@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧠 About
+## 🧠 About Me
 
-Robotics engineer focused on **robot perception, edge AI, and computer vision systems** for autonomous robots.  
-Work centers on building **real-time perception pipelines integrated with embedded robotic platforms**.
+Robotics and Computer Vision Engineer specializing in **real-time perception pipelines, embedded edge AI, and ROS 2 autonomous systems**. My work focuses on bridging high-performance C++ algorithms with hardware-accelerated inference for mobile robots and autonomous systems.
 
-**Primary focus areas**
-
-• ⚙️ Embedded robotic platforms (ESP32, RP2040, STM32)  
-• 📷 Computer vision in **C++ using OpenCV**  
-• 🤖 ROS2-based autonomous robotic systems  
-• 🛰️ Robot perception for inspection and navigation  
-
-Currently exploring **vision optimization on embedded hardware** (Jetson platforms) using **TensorRT accelerated inference pipelines**.
+- ⚙️ **Core Focus:** C++ Real-Time Systems, ONNX Runtime / TensorRT Acceleration, ROS 2 Architecture.
+- 👁️ **Perception:** Multi-Object Tracking (ByteTrack/SORT), YOLO Detection, OpenCV Pipelines, SLAM.
+- 🔌 **Embedded & Hardware:** NVIDIA Jetson, STM32, ESP32, RP2040.
 
 ---
 
-# 🚀 Current Work
+## 🚀 Featured Projects
 
-### 🚗 Open ADAS
-Research platform for **autonomous vehicle perception and navigation**
-
-### 🧗 Climbing Robot for Structural Inspection
-Autonomous climbing robot performing **ultrasonic inspection with SLAM-based localization**
-
-### 📦 Real-Time Object Detection and Tracking (C++)
-Vision system for **industrial conveyor sorting applications**
-
-
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| 📦 [**ConveyorVision**](https://github.com/pratik7229/ConveyorVision) | `C++` `OpenCV` `ONNX Runtime` `YOLOv11` | High-performance C++ perception engine for real-time object detection and pose estimation on industrial conveyor systems. |
+| 🚗 [**Vehicle Tracking & Accident Analysis**](https://github.com/pratik7229/Vehicle-Tracking-Trajectory-and-Accident-Analysis) | `Python` `YOLO` `ByteTrack` `OpenCV` | Multi-object tracking and trajectory visualizer for crash detection and traffic analysis. |
+| 💥 [**Dashcam Crash Prediction**](https://github.com/pratik7229/Dashcam-Crash-Prediction) | `PyTorch` `OpenCV` `Temporal Models` | Deep learning temporal sequence pipeline for early collision prediction from dashcam footage. |
+| 🤖 [**YOHR (Humanoid Locomotion)**](https://github.com/pratik7229/YOHR) | `Python` `MuJoCo` `Reinforcement Learning` | Deep Reinforcement Learning environment for humanoid robot locomotion in physics simulations. |
+| ⚙️ [**CPP & ROS 2 Codebase**](https://github.com/pratik7229/CPPFinalized) | `C++` `ROS 2` `FreeRTOS` `Algorithms` | Modular C++ design patterns, custom ROS 2 Action/Service nodes, and embedded RTOS exercises. |
 
 ---
 
-# 🛠 Technical Stack
+## 🛠 Technical Stack
 
-<table>
+### 💻 Languages & Frameworks
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<tr>
-<td width="50%">
+### 🤖 Robotics & Simulation
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F57F17?style=flat-square&logo=gazebo&logoColor=white)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=flat-square&logo=google&logoColor=white)
 
-### 💻 Programming
+### 👁️ Computer Vision & Edge AI
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
-
-</td>
-
-<td width="50%">
-
-### 🤖 Robotics
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" height="40"/>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 👁️ Computer Vision / AI
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
-
-</td>
-
-<td>
-
-### 🔌 Embedded Systems
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" height="40"/>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🧰 Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-
-</td>
-
-<td>
-
-</td>
-</tr>
-
-</table>
+### 🔌 Embedded Hardware & Tools
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=pratik7229&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=pratik7229&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik7229&theme=tokyonight&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=pratik7229&theme=radical&no-frame=true&margin-w=6)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratik7229&theme=tokyonight&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik7229&theme=tokyonight&layout=compact&hide_border=true" height="150" />
+</p>
 
 ---
 
-# 🌐 Connect
+## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/pratik-walunj-060233193/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-</a>
-
-<a href="https://www.youtube.com/c/techno fetch">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/>
-</a>
-
-📧 **pratikwalunj7229@gmail.com**
+📧 **pratikwalunj7229@gmail.com**  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/pratik-walunj-060233193/)  
+🎥 [YouTube Channel](https://www.youtube.com/c/techno%20fetch)
