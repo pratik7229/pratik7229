@@ -61,9 +61,11 @@ Robotics and Computer Vision Engineer specializing in **real-time perception pip
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik7229&theme=tokyonight&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik7229&theme=tokyonight&layout=compact&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pratik7229&theme=tokyonight&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pratik7229&theme=tokyonight&layout=compact&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=pratik7229&theme=tokyonight&hide_border=true" height="150" />
 </p>
+
 
 ---
 
